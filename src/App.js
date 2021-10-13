@@ -1,10 +1,14 @@
 import React, { Component } from 'react';
-import PageRoutes from './PageRoutes'
+// import PageRoutes from './PageRoutes'
+import Main from './pages/UIS/Main'
 
 class App extends Component {
   render() {
     return (
-      <PageRoutes/>
+    	<Main/>
+      // <PageRoutes/>
+              // <Route path="/main" component={Main} exact/>
+
     );
   }
 }

@@ -21,7 +21,7 @@ class Main extends React.Component {
 			<div className='Main'>
 				<Navbar color="primary">
 					<div className="container" id="brand">
-						<NavbarBrand>Incredible India</NavbarBrand>
+						<NavbarBrand>Tanuj Gupta- Graduate Student At UCSC</NavbarBrand>
 					</div>
 				</Navbar>
 				<Greet />
