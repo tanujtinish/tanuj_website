@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tanuj_website/static/css/main.0fd4bf6d.chunk.css",
-    "main.js": "/tanuj_website/static/js/main.79847aba.chunk.js",
-    "main.js.map": "/tanuj_website/static/js/main.79847aba.chunk.js.map",
+    "main.js": "/tanuj_website/static/js/main.a24640e6.chunk.js",
+    "main.js.map": "/tanuj_website/static/js/main.a24640e6.chunk.js.map",
     "runtime-main.js": "/tanuj_website/static/js/runtime-main.beb05753.js",
     "runtime-main.js.map": "/tanuj_website/static/js/runtime-main.beb05753.js.map",
     "static/css/2.8757ddda.chunk.css": "/tanuj_website/static/css/2.8757ddda.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.8757ddda.chunk.css",
     "static/js/2.ca7fc9d1.chunk.js",
     "static/css/main.0fd4bf6d.chunk.css",
-    "static/js/main.79847aba.chunk.js"
+    "static/js/main.a24640e6.chunk.js"
   ]
 }
